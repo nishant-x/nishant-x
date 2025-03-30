@@ -13,26 +13,26 @@
 
 ---
 
-### 🚀 About Me  
-🔭 Currently working on **CareHealth** – An AI-powered OPD Management System.  
-🌱 Learning **MERN Stack & AI Chatbot Development**.  
-💡 Passionate about **Full-Stack Development**, **Problem-Solving**, and **Open-Source Contributions**.  
-💬 Ask me about **React, Node.js, MongoDB, DSA, and SQL**.  
-📂 Check out my portfolio: [MyPortfolio](https://nishant-x.github.io/MyPortfolio/)  
-📫 Reach me at **jhadenishant@gmail.com**  
+## 🚀 About Me  
+- 🌟 Currently working on **CareHealth** – An AI-powered OPD Management System.  
+- 📚 Continuously expanding my knowledge in **MERN Stack & AI Chatbot Development**.  
+- 💡 Enthusiastic about **Full-Stack Development**, **Problem-Solving**, and **Open-Source Contributions**.  
+- 💬 Open to discussions on **React, Node.js, MongoDB, DSA, and SQL**.  
+- 📚 Explore my portfolio: [MyPortfolio](https://nishant-x.github.io/MyPortfolio/)  
+- ✉ Reach out to me at **jhadenishant@gmail.com**  
 
 ---
 
-### 🏆 Key Projects  
-📌 **CareHealth** (MERN, AI Chatbot) - Smart OPD management system optimizing patient queues, suggesting doctors, and integrating hospital inventory.  
-📌 **JPL-PPL** (MERN) - Organized Java & Python Premier Leagues with coding challenges & MCQ evaluations.  
-📌 **To-Do List** (React) - Interactive task management app with real-time updates & local storage support.  
-📌 **MIS** (PHP, SQL, JS) - Real-time officer status tracking & duty management system, reducing paperwork by 78%.  
-📌 **Portfolio Website** (HTML, CSS, JS) - Showcasing my work, projects, and skills.  
+## 🏆 Key Projects  
+- 🔗 **CareHealth** (MERN, AI Chatbot) - AI-powered OPD management system optimizing patient queues, suggesting doctors, and integrating hospital inventory.  
+- 🔗 **JPL-PPL** (MERN) - Organized Java & Python Premier Leagues featuring coding challenges & MCQ evaluations.  
+- 🔗 **To-Do List** (React) - Interactive task management app with real-time updates & local storage support.  
+- 🔗 **MIS** (PHP, SQL, JS) - Real-time officer status tracking & duty management system, reducing paperwork by 78%.  
+- 🔗 **Portfolio Website** (HTML, CSS, JS) - Showcasing my work, projects, and skills.  
 
 ---
 
-### 🛠 Tech Stack  
+## 🛠 Tech Stack  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -50,31 +50,30 @@
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishant-x&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-x&theme=radical" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-x&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📜 Certifications  
-✅ **NPTEL - C Programming, Modern C++ & OS**  
-✅ **GeeksforGeeks - DSA Workshop**  
-✅ **Coding Thinker - Web Development Workshop**  
-✅ **SISTec Innovation Hackathon 2.0 - Rank 5**  
-✅ **JLU Hackathon - Rank 3**  
+## 📚 Certifications & Achievements  
+- ✅ **Branch Master - Euphoria Fest 2025**  
+- ✅ **NPTEL - C Programming, Modern C++ & OS**  
+- ✅ **GeeksforGeeks - DSA Workshop**  
+- ✅ **Coding Thinker - Web Development Workshop**  
+- ✅ **SISTec Innovation Hackathon 2.0 - Rank 5**  
+- ✅ **JLU Hackathon - Rank 3**  
 
 ---
 
-### 🌎 Connect with Me  
+## 🌎 Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/nishant-jhade-6b9a2b27b" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
