@@ -2,89 +2,117 @@
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishant-x&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nishant-x&label=Profile%20views&color=0e75b6&style=flat" alt="nishant-x" />
+  <a href="https://github.com/nishant-x?tab=followers">
+    <img src="https://img.shields.io/github/followers/nishant-x?label=Followers&style=social" alt="GitHub Followers">
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishant-x&theme=onedark&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nishant-x&theme=onedark&no-frame=true&margin-w=15&column=4" alt="nishant-x" />
   </a>
 </p>
 
----
-
-## 🚀 About Me  
-- 🌟 Currently working on **CareHealth** – An AI-powered OPD Management System.  
-- 📚 Continuously expanding my knowledge in **MERN Stack & AI Chatbot Development**.  
-- 💡 Enthusiastic about **Full-Stack Development**, **Problem-Solving**, and **Open-Source Contributions**.  
-- 💬 Open to discussions on **React, Node.js, MongoDB, DSA, and SQL**.  
-- 📚 Explore my portfolio: [MyPortfolio](https://nishant-x.github.io/MyPortfolio/)  
-- ✉ Reach out to me at **jhadenishant@gmail.com**  
-
----
-
-## 🏆 Key Projects  
-- 🔗 **CareHealth** (MERN, AI Chatbot) - AI-powered OPD management system optimizing patient queues, suggesting doctors, and integrating hospital inventory.  
-- 🔗 **JPL-PPL** (MERN) - Organized Java & Python Premier Leagues featuring coding challenges & MCQ evaluations.  
-- 🔗 **To-Do List** (React) - Interactive task management app with real-time updates & local storage support.  
-- 🔗 **MIS** (PHP, SQL, JS) - Real-time officer status tracking & duty management system, reducing paperwork by 78%.  
-- 🔗 **Portfolio Website** (HTML, CSS, JS) - Showcasing my work, projects, and skills.  
+<style>
+  .highlight-box {
+    border: 1px solid #444;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 10px 0;
+    background-color: #1e1e1e;
+  }
+  .section-title {
+    color: #58a6ff;
+    border-bottom: 2px solid #30363d;
+    padding-bottom: 5px;
+  }
+</style>
 
 ---
 
-## 🛠 Tech Stack  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-</p>
+<div class="highlight-box">
+
+## <div class="section-title">🚀 About Me</div>
+- 🎓 Pursuing **B.Tech in CSE** at Sagar Institute of Science, Technology & Engineering (CGPA: 7.32)
+- 🌟 Currently enhancing skills in **MERN Stack & AI Development**
+- 💼 Former **MERN Stack Developer Intern** @ ZennAura (Mar-Apr 2025)
+- 🏆 **Branch Master Winner** @ SISTec-R (Mar 2025) | **3rd Position** @ JLU Hackathon (May 2024)
+- 📫 Reach me: **jhadenishant@gmail.com** | [Portfolio](https://nishant-x.github.io/MyPortfolio/)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats  
+## <div class="section-title">🛠 Tech Stack</div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishant-x&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-x&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-x&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,mongodb,mysql,react,nodejs,express,git,github,vscode,html,css" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📚 Certifications & Achievements  
-- ✅ **Branch Master - Euphoria Fest 2025**  
-- ✅ **NPTEL - C Programming, Modern C++ & OS**  
-- ✅ **GeeksforGeeks - DSA Workshop**  
-- ✅ **Coding Thinker - Web Development Workshop**  
-- ✅ **SISTec Innovation Hackathon 2.0 - Rank 5**  
-- ✅ **JLU Hackathon - Rank 3**  
+## <div class="section-title">🔥 Projects</div>
+<div class="highlight-box">
+
+### **Sankat Mochan (Hospital Management System)**
+- **Tech**: MERN Stack, Python, AI
+- Developed comprehensive OPD queuing system with **bed/inventory management**
+- Integrated **AI-powered chatbot** for report analysis and home remedies
+- Reduced patient wait times by 40% through optimized queue algorithms
+
+### **MIS (Police Management System)**
+- **Tech**: PHP, JavaScript, MySQL
+- Real-time tracking of police personnel and case management
+- Automated leave approval system reducing paperwork by 78%
+- Implemented secure role-based access control
+
+### **Coding Ka Cricket**
+- **Tech**: MERN Stack, Python
+- Event management platform for coding competitions
+- Integrated compiler and MCQ evaluation system
+- Live leaderboard with real-time updates
+
+</div>
 
 ---
 
-## 🌎 Connect with Me  
-<p align="left">
+## <div class="section-title">📊 GitHub Stats</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishant-x&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-x&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-x&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## <div class="section-title">🏆 Certifications</div>
+<div class="highlight-box">
+
+- **Python Essentials 1 & 2** - Cisco Networking Academy (2024-25)
+- **Problem Solving Through C** - NPTEL (Jan-Apr 2024)
+- **Modern C++ Programming** - NPTEL (Jul-Oct 2024)
+- **Operating Systems** - NPTEL (Jul-Sep 2024)
+- **Web Development Workshop** - MANIT Bhopal (Sep 2024)
+- **DSA Workshop** - MANIT Bhopal (Sep 2023)
+
+</div>
+
+---
+
+## <div class="section-title">🌐 Connect With Me</div>
+<p align="center">
   <a href="https://linkedin.com/in/nishant-jhade-6b9a2b27b" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/ll_nishant_jhade_ll" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/nishant_jhade" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://leetcode.com/nishant_jhade" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/jhadenig1cz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="mailto:jhadenishant@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
