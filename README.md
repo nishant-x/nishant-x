@@ -14,20 +14,6 @@
   </a>
 </p>
 
-<style>
-  .highlight-box {
-    border: 1px solid #444;
-    border-radius: 8px;
-    padding: 15px;
-    margin: 10px 0;
-    background-color: #1e1e1e;
-  }
-  .section-title {
-    color: #58a6ff;
-    border-bottom: 2px solid #30363d;
-    padding-bottom: 5px;
-  }
-</style>
 
 ---
 
