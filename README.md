@@ -20,8 +20,8 @@
 <div class="highlight-box">
 
 ## <div class="section-title">🚀 About Me</div>
-- 🎓 Pursuing **B.Tech in CSE** at Sagar Institute of Science, Technology & Engineering (CGPA: 7.32)
-- 🌟 Currently enhancing skills in **MERN Stack & AI Development**
+- 🎓 Pursuing **B.Tech in CSE** at Sagar Institute of Science, Technology & Engineering (CGPA: 7.45)
+- 🌟 Currently enhancing skills in **MERN Stack & Gen AI Development**
 - 💼 Former **MERN Stack Developer Intern** @ ZennAura (Mar-Apr 2025)
 - 🏆 **Branch Master Winner** @ SISTec-R (Mar 2025) | **3rd Position** @ JLU Hackathon (May 2024)
 - 📫 Reach me: **jhadenishant@gmail.com** | [Portfolio](https://nishant-x.github.io/MyPortfolio/)
@@ -41,7 +41,7 @@
 <div class="highlight-box">
 
 ### **Sankat Mochan (Hospital Management System)**
-- **Tech**: MERN Stack, Python, AI
+- **Tech**: MERN Stack, Python, Gen AI
 - Developed comprehensive OPD queuing system with **bed/inventory management**
 - Integrated **AI-powered chatbot** for report analysis and home remedies
 - Reduced patient wait times by 40% through optimized queue algorithms
@@ -68,7 +68,7 @@
 <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-x&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" /> -->
 
 <p align="center">
-  <b>🔥 Longest Streak:</b> 62 days
+  <b>🔥 Longest Streak:</b> 143 days
 </p>
 
 </p>
