@@ -65,7 +65,12 @@
 ## <div class="section-title">📊 GitHub Stats</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishant-x&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-x&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-x&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+
+<p align="center">
+  <b>🔥 Longest Streak:</b> 62 days
+</p>
+
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-x&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
