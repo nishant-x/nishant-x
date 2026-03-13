@@ -21,7 +21,7 @@
 - 🎓 Pursuing **B.Tech in CSE** at Sagar Institute of Science, Technology & Engineering (CGPA: 7.59)
 - 💼 **Software Developer Intern @ Eazy ERP Technologies Pvt Ltd (9 Mar 2026 – Present)**
 - 💼 Former **MERN Stack Developer Intern @ ZennAura (Mar–Apr 2025)**
-- 🌟 Currently enhancing skills in **MERN Stack, .NET & Gen AI Development**
+- 🌟 Currently enhancing skills in **MERN Stack & Gen AI Development**
 - 🏆 **Branch Master Winner** @ SISTec-R (Mar 2025) | **3rd Position** @ JLU Hackathon (May 2024)
 - 📫 Reach me: **jhadenishant@gmail.com**
 - 🌐 Portfolio: [My Portfolio](https://nishant-x.github.io/MyPortfolio/)
