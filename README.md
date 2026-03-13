@@ -14,92 +14,116 @@
   </a>
 </p>
 
-
 ---
 
-<div class="highlight-box">
+## 🚀 About Me
 
-## <div class="section-title">🚀 About Me</div>
 - 🎓 Pursuing **B.Tech in CSE** at Sagar Institute of Science, Technology & Engineering (CGPA: 7.45)
-- 🌟 Currently enhancing skills in **MERN Stack & Gen AI Development**
-- 💼 Former **MERN Stack Developer Intern** @ ZennAura (Mar-Apr 2025)
+- 💼 **Software Developer Intern @ Eazy ERP Technologies Pvt Ltd (9 Mar 2026 – Present)**
+- 💼 Former **MERN Stack Developer Intern @ ZennAura (Mar–Apr 2025)**
+- 🌟 Currently enhancing skills in **MERN Stack, .NET & Gen AI Development**
 - 🏆 **Branch Master Winner** @ SISTec-R (Mar 2025) | **3rd Position** @ JLU Hackathon (May 2024)
-- 📫 Reach me: **jhadenishant@gmail.com** | [Portfolio](https://nishant-x.github.io/MyPortfolio/)
-
-</div>
+- 📫 Reach me: **jhadenishant@gmail.com**
+- 🌐 Portfolio: [My Portfolio](https://nishant-x.github.io/MyPortfolio/)
 
 ---
 
-## <div class="section-title">🛠 Tech Stack</div>
+## 💼 Experience
+
+### Software Developer Intern — Eazy ERP Technologies Pvt Ltd
+📍 Gurgaon, India | 🗓 9 Mar 2026 – Present
+
+- Working on **ERP and CRM based enterprise applications**
+- Contributing to **backend APIs and frontend modules**
+- Learning and implementing **Node backend with React-based frontend**
+- Collaborating with development teams to build scalable business solutions
+
+### MERN Stack Developer Intern — ZennAura
+📍 Remote | 🗓 Mar 2025 – Apr 2025
+
+- Developed **Admin Dashboard with product & order management**
+- Built **secure REST APIs**
+- Implemented **responsive UI using React**
+- Worked with **MongoDB, Express.js, React.js, Node.js**
+
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,mongodb,mysql,react,nodejs,express,git,github,vscode,html,css" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,mongodb,mysql,react,nodejs,express,git,github,vscode,html,css,dotnet"/>
 </p>
 
 ---
 
-## <div class="section-title">🔥 Projects</div>
-<div class="highlight-box">
+## 🔥 Projects
 
-### **Sankat Mochan (Hospital Management System)**
-- **Tech**: MERN Stack, Python, Gen AI
-- Developed comprehensive OPD queuing system with **bed/inventory management**
-- Integrated **AI-powered chatbot** for report analysis and home remedies
-- Reduced patient wait times by 40% through optimized queue algorithms
+### Sankat Mochan (Hospital Management System)
+**Tech:** MERN Stack, Python, Gen AI  
 
-### **MIS (Police Management System)**
-- **Tech**: PHP, JavaScript, MySQL
-- Real-time tracking of police personnel and case management
-- Automated leave approval system reducing paperwork by 78%
-- Implemented secure role-based access control
+- Developed **OPD queue management system**
+- Implemented **bed & inventory management**
+- Built **AI chatbot for report analysis**
+- Reduced patient waiting time by **40%**
 
-### **Coding Ka Cricket**
-- **Tech**: MERN Stack, Python
-- Event management platform for coding competitions
-- Integrated compiler and MCQ evaluation system
-- Live leaderboard with real-time updates
+### MIS (Police Management System)
+**Tech:** PHP, JavaScript, MySQL  
 
-</div>
+- Real-time **police personnel tracking**
+- Case management system
+- Automated **leave approval workflow**
+- Implemented **role-based access control**
+
+### Coding Ka Cricket
+**Tech:** MERN Stack, Python  
+
+- Platform for **coding competitions**
+- Integrated **online compiler**
+- Implemented **MCQ evaluation system**
+- Real-time **leaderboard**
 
 ---
 
-## <div class="section-title">📊 GitHub Stats</div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishant-x&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-x&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nishant-x&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-x&theme=radical&hide_border=true" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-x&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-x&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## <div class="section-title">🏆 Certifications</div>
-<div class="highlight-box">
+## 🏆 Certifications
 
-- **Python Essentials 1 & 2** - Cisco Networking Academy (2024-25)
-- **Problem Solving Through C** - NPTEL (Jan-Apr 2024)
-- **Modern C++ Programming** - NPTEL (Jul-Oct 2024)
-- **Operating Systems** - NPTEL (Jul-Sep 2024)
-- **Web Development Workshop** - MANIT Bhopal (Sep 2024)
-- **DSA Workshop** - MANIT Bhopal (Sep 2023)
-
-</div>
+- Python Essentials 1 & 2 — Cisco Networking Academy (2024–25)
+- Problem Solving Through C — NPTEL (Jan–Apr 2024)
+- Modern C++ Programming — NPTEL (Jul–Oct 2024)
+- Operating Systems — NPTEL (Jul–Sep 2024)
+- Web Development Workshop — MANIT Bhopal (Sep 2024)
+- DSA Workshop — MANIT Bhopal (Sep 2023)
 
 ---
 
-## <div class="section-title">🌐 Connect With Me</div>
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/nishant-jhade-6b9a2b27b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/nishant_jhade" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/jhadenig1cz" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="mailto:jhadenishant@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<a href="https://linkedin.com/in/nishant-jhade-6b9a2b27b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/nishant_jhade">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/jhadenig1cz">
+<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="mailto:jhadenishant@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
