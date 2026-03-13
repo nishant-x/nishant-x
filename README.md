@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **B.Tech in CSE** at Sagar Institute of Science, Technology & Engineering (CGPA: 7.45)
+- 🎓 Pursuing **B.Tech in CSE** at Sagar Institute of Science, Technology & Engineering (CGPA: 7.59)
 - 💼 **Software Developer Intern @ Eazy ERP Technologies Pvt Ltd (9 Mar 2026 – Present)**
 - 💼 Former **MERN Stack Developer Intern @ ZennAura (Mar–Apr 2025)**
 - 🌟 Currently enhancing skills in **MERN Stack, .NET & Gen AI Development**
