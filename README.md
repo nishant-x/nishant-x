@@ -4,7 +4,7 @@
 📍 India  
 📞 +91 7067056699  
 📧 jhadenishant@gmail.com  
-🔗 [Portfolio]((https://my-portfolio-git-main-nishant-jhades-projects.vercel.app/)) | [LinkedIn](https://linkedin.com/in/nishant-jhade-6b9a2b27b)
+🔗 [Portfolio](https://my-portfolio-git-main-nishant-jhades-projects.vercel.app/) | [LinkedIn](https://linkedin.com/in/nishant-jhade-6b9a2b27b)
 
 ---
 
